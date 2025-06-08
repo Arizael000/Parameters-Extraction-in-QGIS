@@ -24,6 +24,7 @@ Originally developed as part of my Engineering Thesis, these scripts are intende
 [MIT License] or other license you wish to use.
 
 ## Acknowledgments
-Developed as a part of the final thesis project in Engineering at Informatics Science University (La Habana, Cuba) in the period January to June, 2024.
+Developed as a part of the final thesis project in Engineering at Informatics Science University (La Habana, Cuba) in the period January to June, 2024. Also tributes to  HYDRO_PROCESS M
+SALD plugin.
 
 https://drive.google.com/file/d/15e1vfitcJZ6KTVmLL0W3ZrqpFgQJP497/view?usp=sharing
