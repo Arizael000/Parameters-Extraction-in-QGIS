@@ -21,7 +21,7 @@ Originally developed as part of my Engineering Thesis, these scripts are intende
 3. Run the scripts through the Python console integrated in QGIS.
 
 ## License
-[MIT License] or other license you wish to use.
+This project is licensed under the MIT License — see the LICENSE file for details.
 
 ## Acknowledgments
 Developed as a part of the final thesis project in Engineering at Informatics Science University (La Habana, Cuba) in the period January to June, 2024. Also tributes to  HYDRO_PROCESS M
